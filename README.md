@@ -1,0 +1,2 @@
+# SPellGallery
+Mixed Reality project
